@@ -76,5 +76,5 @@ cucumber -p prod -t @Logar
 
 
 
-## License
+## Licença de software
 GPLv3
